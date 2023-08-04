@@ -18,6 +18,10 @@ I'm a Product Design Engineer and Robotics Engineer passionate about creating in
 2. **Another Project**
    Description: Briefly describe the project and its goal.
    Repository: [Link to Project Repository](https://github.com/username/another-project-repo)
+   
+- Programming: ![Python](icons/python.svg) ![C++](icons/cpp.svg) ![G code](icons/gcode.svg)
+- CAD: ![SolidWorks](icons/solidworks.svg) ![AutoCAD](icons/autocad.svg) ![Blender](icons/blender.svg)
+
 
 ## 📫 Get in Touch
 
