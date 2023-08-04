@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there, I'm Vignesh Rajagopal 👋
 
-<!--
-**RoboCraftsman/RoboCraftsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Product Design Engineer and Robotics Engineer passionate about creating innovative solutions that blend aesthetics and functionality. Welcome to my GitHub repository!
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- CAD: SolidWorks, Autodesk Fusion 360
+- Programming: Python, C++
+- Robotics: ROS (Robot Operating System)
+- 3D Printing & Rapid Prototyping
+
+## 📚 Projects
+
+1. **Project Name**
+   Description: Briefly describe the project and its goal.
+   Repository: [Link to Project Repository](https://github.com/username/project-repo)
+
+2. **Another Project**
+   Description: Briefly describe the project and its goal.
+   Repository: [Link to Project Repository](https://github.com/username/another-project-repo)
+
+## 📫 Get in Touch
+
+- LinkedIn: [Vignesh Rajagopal]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/vignesh-r-v-050720012r-d/))
+- Personal Portfolio: [yourwebsite.com](https://www.yourwebsite.com)
+- Email: youremail@example.com
+
+## 🚀 Let's Collaborate!
+
+I'm always open to exciting collaborations and new opportunities. Feel free to reach out if you're interested in working together or have any questions about my projects.
+
