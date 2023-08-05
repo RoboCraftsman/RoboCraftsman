@@ -8,11 +8,15 @@ I'm a Product Design Engineer and Robotics Engineer passionate about creating in
 - Programming: Python, C++
 - Robotics: ROS (Robot Operating System)
 - 3D Printing & Rapid Prototyping
+   
+- Programming: ![Python](python.png) ![C++](C++.png) ![G code](gcode.png)
+- CAD: ![SolidWorks](solidworks.png) ![AutoCAD](autocad.png) ![Blender](blender.png)
 
 
 ## 📫 Get in Touch
 
 - LinkedIn: [Vignesh Rajagopal]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/vignesh-r-v-050720012r-d/))
+
 - Email: vickyrv570@gmail.com
 
 ## 🚀 Let's Collaborate!
